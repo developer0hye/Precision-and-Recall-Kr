@@ -4,4 +4,4 @@
 
 ## Spot the difference!
 
-우선 Precision 과 Recall 을 설명하기에 앞서 틀린 그림 찾기
+우선 Precision 과 Recall 을 설명하기에 앞서 틀린 그림 찾기를
