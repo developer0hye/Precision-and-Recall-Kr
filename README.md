@@ -12,11 +12,12 @@
 
 (심심하시면 한 번 틀린 부분을 찾아보시길 바랍니다. 정답은 아래에 있습니다.)
 
-![sponge](./figures/sponge.jpg)
+<sponge src="/figures/sponge.jpg" width="50%" height="50%">
+
 
 정답은 총 3 개로 우측 그림에서 검은색 원으로 강조된 부분입니다.
 
-![answer](./figures/answer.png)
+![answer](./figures/answer.png){: width="50%" height="50%"}
 
 이제 우리가 **틀린 그림 찾기** 문제에 대한 해결 방법으로 A 방법과 B 방법을 개발했다고 가정하겠습니다.
 
@@ -25,3 +26,5 @@
 보라색 원으로 강조된 부분은 각 방법이 서로 다른 부분(정답)이라고 판단하여 찾아낸 부분입니다.
 
 ![results](./figures/results.png)
+
+결과를 비교해보면은 A 방법은 정답과 비교하여 서로 다른 부분에 대해   B 방법은 서로 다른 부분을 모두 맞췄지만 잘못 맞춘 부분이 존재합니다.
