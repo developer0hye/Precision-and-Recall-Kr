@@ -24,4 +24,4 @@
 
 보라색 원으로 강조된 부분은 각 방법이 서로 다른 부분(정답)이라고 판단하여 찾아낸 부분입니다.
 
-![results](./figures/results.jpg)
+![results](./figures/results.png)
