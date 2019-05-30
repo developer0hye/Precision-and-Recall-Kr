@@ -12,12 +12,11 @@
 
 (심심하시면 한 번 틀린 부분을 찾아보시길 바랍니다. 정답은 아래에 있습니다.)
 
-<sponge src="/figures/sponge.jpg" width="50%" height="50%">
-
+<img src="./figures/sponge.jpg" width="50%">
 
 정답은 총 3 개로 우측 그림에서 검은색 원으로 강조된 부분입니다.
 
-![answer](./figures/answer.png){: width="50%" height="50%"}
+<img src="./figures/answer.png" width="50%">
 
 이제 우리가 **틀린 그림 찾기** 문제에 대한 해결 방법으로 A 방법과 B 방법을 개발했다고 가정하겠습니다.
 
