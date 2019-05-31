@@ -86,7 +86,7 @@ A 방법과 B 방법이 내놓은 결과물인 서로 다른 부분들(보라색
 
 오답을 내더라도 정답을 맞추는게 중요하다면 **Recall** 의 수치가 높은 방법을 선택하는 것이 좋습니다.
 
-이번 게시글에서는 **Precision** 과 **Recall** 에 대하여 알아보았습니다. 보다 정확한 개념을 이해하고 싶으시다면
+이번 게시글에서는 **Precision** 과 **Recall** 에 대한 **느낌** 을 알아보았습니다. 
 
-[precision, recall의 이해](https://darkpgmr.tistory.com/162) 를 읽어보시는 것을 추천드립니다.
+보다 정확한 개념을 이해하고 싶으시다면 [precision, recall의 이해](https://darkpgmr.tistory.com/162) 를 읽어보시는 것을 추천드립니다.
 
